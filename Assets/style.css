@@ -68,6 +68,13 @@ body {
 
 }
 
+section{
+    padding: 60px;
+
+    background-image: url(../Images/hero-bg.jpeg);
+}
+
+
 footer {
 
     background: #fce138;
